@@ -17,6 +17,7 @@ Analog Match is a transparent scoring tool that ranks Earth sites as analogs for
 - `scorecard.py`: reads `evidence.csv`, ranks sites, runs the sensitivity analysis, saves charts and tables
 - `make_map.py`: builds the interactive map `analog_map.html`
 - `ranking_*.png/csv`, `sensitivity_*.png/csv`: results
+-  Live map: `https://vect-hunting-git.github.io/analog-match/analog_map.html`
 
 ## How to run
     pip install pandas matplotlib folium
