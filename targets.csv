@@ -1,0 +1,6 @@
+Property,Moon,Mars,Earth,Source
+Mean temperature (C),-20,-65,15,"NASA NSSDCA Planetary Fact Sheet (metric), last updated 13 Nov 2026"
+Length of day (hours),708.7,24.7,24.0,"NASA NSSDCA Planetary Fact Sheet (metric), last updated 13 Nov 2026"
+Gravity (m/s2),1.6,3.7,9.8,"NASA NSSDCA Planetary Fact Sheet (metric), last updated 13 Nov 2026"
+Surface pressure (bars),0,0.01,1,"NASA NSSDCA Planetary Fact Sheet (metric), last updated 13 Nov 2026"
+Lunar surface temperature data,LRO Diviner maps surface temperature at 500 m scale; polar products exist; no south pole value taken from this page,,,NASA PDS Geosciences LRO Diviner page: https://pds-geosciences.wustl.edu/missions/lro/diviner.htm
